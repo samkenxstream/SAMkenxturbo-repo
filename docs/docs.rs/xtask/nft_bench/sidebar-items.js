@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["g","r","show_result"],"struct":["BenchSuite"]};

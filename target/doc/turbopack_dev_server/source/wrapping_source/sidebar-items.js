@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["encode_pathname_to_url"],"struct":["ContentSourceProcessorVc","WrappedContentSource","WrappedContentSourceVc"],"trait":["ContentSourceProcessor"],"type":["ContentSourceProcessorTraitRef","WrappedContentSourceReadRef"]};
